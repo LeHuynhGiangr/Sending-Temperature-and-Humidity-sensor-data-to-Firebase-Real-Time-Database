@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 
-#define Name_Wifi "CTY VT LE HUYNH"
-#define Pass_Wifi "12011999"
+#define Name_Wifi ""
+#define Pass_Wifi ""
 
 /*
  * author: Le Huynh Giang
