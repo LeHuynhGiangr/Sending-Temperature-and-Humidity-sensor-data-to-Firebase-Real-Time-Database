@@ -19,8 +19,8 @@
   + step1: File -> Preferences -> Additional Boards Manager URLs: http://arduino.esp8266.com/stable/package_esp8266com_index.json
   + step2: Tools -> Board -> Boards Manager... -> search and install: esp8266
 - installing library for programming firebase API
-  +Sketch -> Include Library -> Manage Libraries... -> search and install: Firebase ESP8266 Client
-##Upload code 
+  + Sketch -> Include Library -> Manage Libraries... -> search and install: Firebase ESP8266 Client
+## Upload code 
  Connect board ->Copy and paste code (code.cpp) into Arduino IDE -> Compile and Upload
 ## How to configure/install and run
 
