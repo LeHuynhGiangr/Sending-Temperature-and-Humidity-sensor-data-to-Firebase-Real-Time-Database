@@ -1,0 +1,75 @@
+1. Viết API
+2. Deploy APP
+3. upload lên AWS và Heroku
+4. mở cổng
+
+
+Mô hình:
+5 năm AI Chưa phát triển
+Framework chưa phát triển
+
+Hiện nay có framework -> Quan tâm Input và OutPut
+Input (-----> AI ------> Output
+
+1.Dự báo 5p = 300s
+
+
+
+Time (Real)    |        Temp (Real)           |
+     t1		|
+	t2 |
+	t3|
+	...
+	t n -1
+
+
+
+Mô hình ----------> AI (Hồi quy) ------>
+
+
+y = Ax + bh + C mô hình hồi quy đa tuyến tínhtrong ứng dụng dự báo nhiệt độ
+
+
+Tìm u, v. Min, max, avg
+
+
+React native
+______________________ (Free style)
+Mô hình web
+
+
+MVC, 3-tiers      Database -> Bussiness -> GUI ||
+			( Database -> Bussiness) Bus services ( JSON)
+
+Mobile, Web APP ( Quan Tâm View(TextboxX, TextboxY))
+Angular, React, VueJS -> Tải dữ liệu dễ hơn, các component--> dễ hơn có cấu trúc, Class Model Class {x, y}
+Lấy từ API (json)) ----> [           ] -----> View
+
+
+Ko nên đọc dòng code -> Quan tâm tới cấu trúc
+
+View (Lo giao diện)        API -> Service -> Model -> View
+Model (Khai báo class)
+API/ Service (Hàm gọi API)
+
+
+
+
+1. Làm Quen React   ----> Tạo Create Project, cài đặt React Native
+. Node.JS   (Đọc file JS)
+. npm       (Tool NPM tải thư viện)
+. cli
+
+Môi trường chạy Web () / iOS (tương tự) / Android (Đt thực, Máy ảo)
+
+2. Tải Project Mẫu trên fhqlms.
+Mở cửa sổ và đối chiếu coppy từng cái bỏ vào project bước 1.
+
+
+https://levelup.gitconnected.com/getting-started-with-react-native-in-2019-build-your-first-app-a41ebc0617e2
+https://levelup.gitconnected.com/getting-started-with-react-native-in-2019-build-your-first-app-a41ebc0617e2
+https://medium.com/javascript-in-plain-english/react-¬¬¬¬¬¬native-creating-a-simple-application-298fa0637e72
+
+
+
+Tìm moment.js bỏ vào folder cùng cấp gốc.
